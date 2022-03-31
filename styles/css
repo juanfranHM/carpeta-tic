@@ -1,0 +1,15 @@
+body {
+ background-image: url("https://raw.githubusercontent.com/juanfranHM/carpeta-tic/72be7f18185f82725468cbe2bad270f792640e93/imagenes/bg.png");
+ 
+}
+ h1 {
+ border-top:2px 
+ text-aling:auto
+ padding: 20px 30px;
+ margin-left:auto
+ margin-right:auto
+ background-color
+}
+ table {
+ background-image: url(https://raw.githubusercontent.com/juanfranHM/carpeta-tic/c59bda67a8cf103f4cf5db9788643895cdd6e94b/code.jpg);
+}
