@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta name="author" content="JuanfranciscoHuertas">,
+    </head>
+    
+    <body>
+    <h1> listado de practicas </h1>
+<table>
+    <tr>
+    <td> Desafio N1</td>
+    <td> Desafio N2</td>
+    <td> Desafio N3</td>
+    </tr>
+        <tr>
+    <td> Desafio N4</td>
+    <td> Desafio N5</td>
+    <td> Desafio N6</td>
+    </tr>
+        <tr>
+    <td> Desafio N7</td>
+    <td> Ubicando CSS</td>
+    </tr>
+    </table>
